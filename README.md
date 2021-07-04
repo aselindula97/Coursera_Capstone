@@ -1,3 +1,5 @@
+- This project was done as the capstone project in IBM Data Science Professional Certificate
+
 # Fast Food Restaurant Recommendation in Toronto
 ## Background
 Toronto is the financial capital of Canada, with lots of business opportunities and business friendly environment, it has no issue in attracting many different players into the market. However, that also means the market is highly competitive and as a well-developed city, the cost of doing business is also one of the highest in the country. And thus, any new business venture or expansion in the country needs to be reviewed carefully and strategically targeted so that the return on investment will be sustainably reasonable and more importantly the investment can be considerably less risker.

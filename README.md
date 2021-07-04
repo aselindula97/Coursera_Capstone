@@ -1,4 +1,4 @@
-- This project was done as the capstone project in IBM Data Science Professional Certificate
+- This project was done for the capstone project in IBM Data Science Professional Certificate
 
 # Fast Food Restaurant Recommendation in Toronto
 ## Background
